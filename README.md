@@ -11,16 +11,26 @@
 ## 🛠 기술스택
 
 <p align='center'>
-   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<br>
+   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Axios-pink?style=for-the-badge&logo=Axios&logoColor=black">
+  <img src="https://img.shields.io/badge/styledcomponents-569A31?style=for-the-badge&logo=styledcomponents&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white">
+  <img src="https://img.shields.io/badge/CloudFront-D05C4B?style=for-the-badge&logo=CloudFront&logoColor=white">
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=S3&logoColor=white">
 </p>
 
 </br>
 
 ## 📌 바로가기
 
-- <a href="https://friengls.com/"> 👉 Friengls </a></br>
+- <a href="https://friengls.kr/"> 👉 Friengls (홈페이지) </a></br>
 - <a href="https://youtu.be/u_SaGn2HHXw"> 🎬 프로젝트 발표영상 </a></br>
 
 </br>
