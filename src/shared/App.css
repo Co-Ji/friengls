@@ -1,0 +1,18 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2? family= Noto+Sans+KR:wght@400;500;700 & display=swap');
+
+* {
+  font-family: NotoSansKR;
+}
+
+.feedback {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  color: #171b78;
+}
+
+.feedback:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
